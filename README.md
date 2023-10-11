@@ -1,3 +1,3 @@
 # latihan-branch
 Latihan membuat branch
-ini branch di main
+ini branch gabungan main dan development
